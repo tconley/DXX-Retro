@@ -1,4 +1,4 @@
-DXX Retro Awesome Edition
+DXX Retro Groovy Edition
 
 Changes in Groovy edition add features that could be considered a competatitve advantage (Such as giving the player new information/stats on the HUD)
 
